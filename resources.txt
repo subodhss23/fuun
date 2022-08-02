@@ -1,0 +1,17 @@
+
+
+1. tools
+    a. compiler explorer
+        https://godbolt.org/
+    b. decompiler explorer
+        https://dogbolt.org/
+    c. 
+
+
+
+2. learn
+    a. reversing the VKSI2000 Hand-Held Trading Device
+        https://sockpuppet.org/issue-79-file-0xb-foxport-hht-hacking.txt.html
+    b. play and learn
+        https://microcorruption.com/
+    
